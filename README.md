@@ -15,4 +15,4 @@ $ ./portfolio.sh
 ```
 
 ## Output
-<video src="./Output.mp4" width="420" height="320" controls></video>
+![video](./Output.mp4)
