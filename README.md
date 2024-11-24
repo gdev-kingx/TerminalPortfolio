@@ -15,4 +15,4 @@ $ ./portfolio.sh
 ```
 
 ## Output
-![video](./Output.mp4)
+[![video]](./Output.mp4)
